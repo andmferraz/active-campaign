@@ -1,0 +1,19 @@
+{
+    "name": "andmferraz/active-campaign",
+    "description": "Classe de consumo da API do Active Campaign - Abandono de Carrinho",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anderson Ferraz",
+            "email": "andmferraz12@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "config": {
+        "vendor-dir": "vendor"
+    },    
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
